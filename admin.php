@@ -1,5 +1,5 @@
 <?php
-$mysqli=mysqli_connect("localhost","root","1234512345qwe","admins");
+$mysqli=mysqli_connect("localhost","root","root","admins");
 if(mysqli_connect_errno())
 {
   printf("Connect is failed! here");

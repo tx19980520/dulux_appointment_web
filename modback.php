@@ -1,6 +1,6 @@
 <?php
 session_start();
-$mysqli=mysqli_connect("localhost","root","1234512345qwe$","dulbx");
+$mysqli=mysqli_connect("localhost","root","root","dulbx");
 mysqli_query($mysqli,"set names 'utf8'");
 if(mysqli_connect_errno())
 {

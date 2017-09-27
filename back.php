@@ -10,7 +10,7 @@ if(isset($_REQUEST['authcode']))
     exit;
   }
   else{
-  $mysqli=mysqli_connect("localhost","root","1234512345qwe","dulbx");
+  $mysqli=mysqli_connect("localhost","root","root","dulbx");
   if(mysqli_connect_errno())
   {
     printf("Connect is failed!");
