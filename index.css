@@ -1,0 +1,17 @@
+.imgs{
+  border-radius: 6%;
+}
+.for_font{
+  font-style:'Segoe UI', Helvetica, Arial, sans-serif;
+  font-sze: 12px;
+}
+body
+{
+      margin:0px;
+      padding:0px;
+      background-color:rgb(20, 211, 250);
+      font-family:"微软雅黑","黑体","宋体";
+      font-size:12px;
+      height:36px;
+
+}
